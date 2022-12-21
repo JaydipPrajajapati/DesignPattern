@@ -1,0 +1,8 @@
+D:\Personal\Projects\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe.config
+D:\Personal\Projects\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe
+D:\Personal\Projects\DesignPattern\DesignPattern\bin\Debug\DesignPattern.pdb
+D:\Personal\Projects\DesignPattern\DesignPattern\obj\Debug\SingleTon.csproj.AssemblyReference.cache
+D:\Personal\Projects\DesignPattern\DesignPattern\obj\Debug\SingleTon.csproj.SuggestedBindingRedirects.cache
+D:\Personal\Projects\DesignPattern\DesignPattern\obj\Debug\SingleTon.csproj.CoreCompileInputs.cache
+D:\Personal\Projects\DesignPattern\DesignPattern\obj\Debug\DesignPattern.exe
+D:\Personal\Projects\DesignPattern\DesignPattern\obj\Debug\DesignPattern.pdb

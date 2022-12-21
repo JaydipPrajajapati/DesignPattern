@@ -1,0 +1,8 @@
+D:\Personal\Projects\DesignPattern\FactoryDesign\bin\Debug\FactoryDesign.exe.config
+D:\Personal\Projects\DesignPattern\FactoryDesign\bin\Debug\FactoryDesign.exe
+D:\Personal\Projects\DesignPattern\FactoryDesign\bin\Debug\FactoryDesign.pdb
+D:\Personal\Projects\DesignPattern\FactoryDesign\obj\Debug\FactoryDesign.csproj.AssemblyReference.cache
+D:\Personal\Projects\DesignPattern\FactoryDesign\obj\Debug\FactoryDesign.csproj.SuggestedBindingRedirects.cache
+D:\Personal\Projects\DesignPattern\FactoryDesign\obj\Debug\FactoryDesign.csproj.CoreCompileInputs.cache
+D:\Personal\Projects\DesignPattern\FactoryDesign\obj\Debug\FactoryDesign.exe
+D:\Personal\Projects\DesignPattern\FactoryDesign\obj\Debug\FactoryDesign.pdb
